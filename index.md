@@ -1,5 +1,3 @@
-
-
 ## CS 3510: Design & Analysis of Algorithms
 ### Fall 2021
 
@@ -16,14 +14,12 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 #### Recurrences and Cryptography
 
 - **Day 1, Tuesday 8/24/2021: Introduction to Course** 
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjUwN2I2ZGQtNDgyZS00OTgyLWFlNTktOTc1MzM4ZTNlMzIx%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a)
 	- Introduction to course, overview of format
 	- *Videos*:
 		+ [Course Intro Video](https://youtu.be/R-CJbHv_qes)
 
 
 - **Day 2, Thursday 8/26/2021: Big-O, Logs, Fibonacci** 
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWI2ZWE4YmMtMDNjYS00ZDJhLThlYWYtNTYwOTBkMjQzMzdi%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a)
 	- *Required Reading*: DPV Chapter 0
 	- *Videos*:
 		+ [Big-O Notation](https://youtu.be/kVxTDnmUjWQ)
@@ -32,7 +28,6 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- [Homework 1A released, due Sunday 9/5 11pm](https://gatech.instructure.com/courses/203398/files)
 
 - **Day 3, Tuesday 8/31/2021: MergeSort and Multiplication** 
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2NlYWY3YzktMTI3MC00NmJjLWI0N2QtNWZhNTAzNzRiNWEz%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a)
 	- *Required Reading*: DPV Chapter 2.1 & 2.3
 	- *Videos*: 
 		+ [MergeSort Algorithm](https://youtu.be/z00BP0IKc1o)
@@ -40,7 +35,6 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 		+ [Problem Solving Video](https://youtu.be/3O6TYsL13_Y)
 
 - **Day 4, Thursday 9/2/2021: Recurrences and Matrix Multiplication** 
-	- [Link to live session](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzZiZTA2YjgtYzA3NC00ZDBhLWFhYzUtYmQ3MzFlNTUwMjkx%40thread.v2/0?context=%7b%22Tid%22%3a%22482198bb-ae7b-4b25-8b7a-6d7f32faa083%22%2c%22Oid%22%3a%2242f1ee1e-b539-4a2b-911e-6cc8b3ee5751%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a)
 	- *Required Reading*: DPV Chapter 2.2 & 2.5
 	- *Videos*: 
 		+ [Solving Recurrences](https://youtu.be/KGu6_fiN9ro)
