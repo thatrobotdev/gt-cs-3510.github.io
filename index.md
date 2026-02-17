@@ -25,7 +25,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 		+ [Big-O Notation](https://youtu.be/kVxTDnmUjWQ)
 		+ [Computing Fibonacci](https://youtu.be/l_as6KI_40Q)
 		+ [Problem Solving Video](https://www.youtube.com/watch?v=ZOF0bAhBdzQ)
-	- [Homework 1A released, due Sunday 9/5 11pm](https://gatech.instructure.com/courses/203398/files)
+	- Homework 1A released, due Sunday 9/5 11pm
 
 - **Day 3, Tuesday 8/31/2021: MergeSort and Multiplication** 
 	- *Required Reading*: DPV Chapter 2.1 & 2.3
@@ -48,7 +48,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 		+ [Modular Arithmetic Basics](https://youtu.be/ThGBYFoUnMY)
 		+ [Algorithms for Modular Arithmetic](https://youtu.be/jgXCm6gHT6k)
 		+ [Multiplicative Inverses mod N](https://youtu.be/Lb-7b60xbTU)
-	- [Homework 1B released, due Sunday 9/19 11pm](https://gatech.instructure.com/courses/203398/files)
+	- Homework 1B released, due Sunday 9/19 11pm
 
 - **Day 6, Thursday 9/9/2021: RSA Cryptosystem** 
 	- *Required Reading*: DPV Chapter 1.4
@@ -78,7 +78,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 
 - **Day 10, Thursday 9/23/2021: Intro to DP & Shortest Paths in a DAG** 
 	- *Required Reading*: DPV Chapter 6.1
-	- [Homework 2A released, due Sunday 10/3 11pm](https://gatech.instructure.com/courses/203398/files)
+	- Homework 2A released, due Sunday 10/3 11pm
 	- *Videos*:
 		+ [Introduction to Dynamic Programming](https://youtu.be/jXDFr-NihYY)  
 		+ [Problem Solving Video](https://youtu.be/S0m07n1a58o)
@@ -93,7 +93,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 		+ Note: Chapter 6.3 is about the *edit distance* between two strings, which is slighly different than the LCS. But the solutions are somewhat similar so you will likely find it helpful.
 	- *Videos*: (**Note**: This is a *playlist* with several videos!)
 		- [LCS + DP, Intro by Prof Abernethy, Details by Prof Vigoda](https://www.youtube.com/playlist?list=PLK5iajBGhikFhvnANZSGop9FO265tBw1n)
-	- [Homework 2B released, due Tuesday 10/12 11pm](https://gatech.instructure.com/courses/203398/files)
+	- Homework 2B released, due Tuesday 10/12 11pm
 
 - **Day 13, Tuesday 10/5/2021: The Knapsack Problem** 
 	- *Required Reading*: DPV Chapter 6.4
@@ -114,7 +114,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Videos*:
 		 + [Depth First Search](https://youtu.be/gPFYdMRFTSs)
 		 + Suplemental: Prof. Vigoda's lecture on DFS (you need to create a free account to access Udacity). [Lecture-GR1](https://classroom.udacity.com/courses/ud401/lessons/10159691481/concepts/2232791e-816a-4300-8a71-a76755fd1c08) 
-	- [Homework 3A released, due Sunday 10/24 11pm](https://gatech.instructure.com/courses/203398/files)
+	- Homework 3A released, due Sunday 10/24 11pm
 
 - **Day 16, Tuesday 10/19/2021: EXAM 2** 
 
@@ -123,7 +123,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Videos*:
 		 + [Strongly Connected Components](https://youtu.be/VcMxNpXd9cY)
 		 + [Problem Solving Video](https://youtu.be/TquB0cjrYU4)
-	- [Homework 3B released, due Monday 11/1 11pm](https://gatech.instructure.com/courses/203398/files)
+	- Homework 3B released, due Monday 11/1 11pm
 - **Day 18, Tuesday 10/26/2021: Breadth First Search. Dijkstra's algorithm.**
 	- *Required Reading*: DPV Chapters 4.1, 4.2, 4.3, 4.4, and 4.5 
 	- *Videos*:
@@ -146,7 +146,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Videos*:
 		 + [Introduction to Complexity Theory, Reductions](https://youtu.be/P1YnDXi_wUo)
 - **Day 22, Tuesday 11/9/2021: EXAM 3** 
-	- [Homework 4A released, due Sunday 11/14 11pm](https://gatech.instructure.com/courses/203398/files)
+	- Homework 4A released, due Sunday 11/14 11pm
 - **Day 23, Thursday 11/11/2021: Boolean satisfiability problems. SAT and 3-SAT.**
 	- *Required Reading*: DPV Chapter 8.3 (specifically, the reduction SAT to 3SAT).
 	- *Videos*:
