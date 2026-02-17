@@ -113,7 +113,7 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Required Reading*: DPV Chapters 3.1, 3.2, and 3.3
 	- *Videos*:
 		 + [Depth First Search](https://youtu.be/gPFYdMRFTSs)
-		 + Suplemental: Prof. Vigoda's lecture on DFS (you need to create a free account to access Udacity). [Lecture-GR1](https://classroom.udacity.com/courses/ud401/lessons/10159691481/concepts/2232791e-816a-4300-8a71-a76755fd1c08) 
+		 + Suplemental: Prof. Vigoda's lecture on DFS). GR1 5. DFS: Paths [Ed](https://edstem.org/us/courses/47529/lessons/80065/slides/440363) (you need to create an Ed account and join using the [open access link](https://edstem.org/us/join/b75ghf)), [Faculty website](https://faculty.cc.gatech.edu/~vigoda/GA/#)
 	- Homework 3A released, due Sunday 10/24 11pm
 
 - **Day 16, Tuesday 10/19/2021: EXAM 2** 
