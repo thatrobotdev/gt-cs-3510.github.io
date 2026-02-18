@@ -105,16 +105,16 @@ DPV refers to the [textbook](https://www.amazon.com/Algorithms-Sanjoy-Dasgupta-e
 	- *Videos*:
 		+ [Chain Matrix Multiplication](https://www.youtube.com/watch?v=83lYN8HnYKM)
 
-
-
 #### Graph Algorithms
 
 - **Day 15, Thursday 10/14/2021: Graphs traversal. Depth First Search. DP Practice.** 
-	- *Required Reading*: DPV Chapters 3.1, 3.2, and 3.3
-	- *Videos*:
-		 + [Depth First Search](https://youtu.be/gPFYdMRFTSs)
-		 + Suplemental: Prof. Vigoda's lecture on DFS). GR1 5. DFS: Paths [Ed](https://edstem.org/us/courses/47529/lessons/80065/slides/440363) (you need to create an Ed account and join using the [open access link](https://edstem.org/us/join/b75ghf)), [Faculty website](https://faculty.cc.gatech.edu/~vigoda/GA/#)
-	- Homework 3A released, due Sunday 10/24 11pm
+  - *Required Reading*: DPV Chapters 3.1, 3.2, and 3.3
+    - *Videos*:
+      - [Depth First Search](https://youtu.be/gPFYdMRFTSs)
+      - Suplemental: Prof. Vigoda's lecture on DFS (GR1 5).
+        - [Ed](https://edstem.org/us/courses/47529/lessons/80065/slides/440363) (you need to create an Ed account and join using the [open access link](https://edstem.org/us/join/b75ghf))
+        - [Faculty website](https://faculty.cc.gatech.edu/~vigoda/GA/#)
+  - Homework 3A released, due Sunday 10/24 11pm
 
 - **Day 16, Tuesday 10/19/2021: EXAM 2** 
 
